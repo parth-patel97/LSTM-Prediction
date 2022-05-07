@@ -1,1 +1,1 @@
-# LSTM-Prediction
+# LSTM Prediction API
